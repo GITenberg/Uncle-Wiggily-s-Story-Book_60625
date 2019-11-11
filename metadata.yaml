@@ -1,0 +1,33 @@
+_repo: Uncle-Wiggily-s-Story-Book_60625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Garis, Howard R.
+    - Davidson, Marion
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2019-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+- GITenberg
+title: Uncle Wiggily's Story Book
+url: http://www.gutenberg.org/ebooks/60625
